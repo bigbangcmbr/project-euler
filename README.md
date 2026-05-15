@@ -1,2 +1,3 @@
-# project-euler
-https://projecteuler.net/archives
+# Project Euler
+
+Solutions to [Project Euler](https://projecteuler.net/archives) problems.
