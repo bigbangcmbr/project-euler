@@ -12,7 +12,9 @@ def solve(n):
 def main():
     n = 754000
     ans = solve(n)
-    print(f"Sum of odd squares is {ans}")
+    print(
+        f"Among the first 754 thousand square numberes, sum of all the odd squares is {ans}"
+    )
 
 
 if __name__ == "__main__":
